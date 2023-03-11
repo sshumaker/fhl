@@ -1,0 +1,7 @@
+*.log
+db
+.chroma
+.ipynb_checkpoints
+__pycache__
+session
+.DS_Store
